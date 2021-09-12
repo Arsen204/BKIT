@@ -1,0 +1,5 @@
+/Users/arsenvardumyan/Projects/Lab_5/MyLib5/bin/Debug/MyLib5.dll
+/Users/arsenvardumyan/Projects/Lab_5/MyLib5/bin/Debug/MyLib5.pdb
+/Users/arsenvardumyan/Projects/Lab_5/MyLib5/obj/Debug/MyLib5.csproj.CoreCompileInputs.cache
+/Users/arsenvardumyan/Projects/Lab_5/MyLib5/obj/Debug/MyLib5.dll
+/Users/arsenvardumyan/Projects/Lab_5/MyLib5/obj/Debug/MyLib5.pdb
