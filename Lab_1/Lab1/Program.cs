@@ -7,7 +7,7 @@ namespace Lab1
         public static void Main(string[] args)
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
-            Console.WriteLine("Вардумян Арсен ИУ5-31Б\n");
+            Console.WriteLine("ArsVard ИУ5-31Б\n");
             int a = 0 , b = 0, c = 0;
 
             if (args.Length == 0)
