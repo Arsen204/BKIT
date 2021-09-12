@@ -1,0 +1,6 @@
+/Users/arsenvardumyan/Projects/Lab3/Lab3/bin/Debug/Lab3.exe
+/Users/arsenvardumyan/Projects/Lab3/Lab3/bin/Debug/Lab3.pdb
+/Users/arsenvardumyan/Projects/Lab3/Lab3/obj/Debug/Lab3.csprojAssemblyReference.cache
+/Users/arsenvardumyan/Projects/Lab3/Lab3/obj/Debug/Lab3.csproj.CoreCompileInputs.cache
+/Users/arsenvardumyan/Projects/Lab3/Lab3/obj/Debug/Lab3.exe
+/Users/arsenvardumyan/Projects/Lab3/Lab3/obj/Debug/Lab3.pdb
